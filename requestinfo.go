@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"crypto/tls"
 
-	"github.com/mholt/caddy/caddyhttp/httpserver"
+	"github.com/caddyserver/caddy/caddyhttp/httpserver"
 )
 
 type RequestInfo struct {
